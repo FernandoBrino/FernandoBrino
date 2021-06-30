@@ -12,7 +12,7 @@ Entrei no universo da programação a um pouco mais de 1 ano logo após o térmi
 
 HTML,
 CSS,
-JavaScript
+JavaScript.
 
 ✨Tecnologias Que Desejo Conhecer
 
@@ -20,10 +20,10 @@ React,
 Node Js,
 Elixir,
 Mobile (Flutter ou React Native),
-Unity e Unreal (Games)
+Unity e Unreal (Games).
 
 ✨Contato
 
-Email: brinosaint@gmail.com
+Email: brinosaint@gmail.com.
 
 
