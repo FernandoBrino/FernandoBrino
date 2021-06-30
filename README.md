@@ -10,16 +10,16 @@ Entrei no universo da programação a um pouco mais de 1 ano logo após o térmi
 
 ✨Estudando
 
-HTML
-CSS
+HTML,
+CSS,
 JavaScript
 
 ✨Tecnologias Que Desejo Conhecer
 
-React
-Node Js
-Elixir
-Mobile (Flutter ou React Native)
+React,
+Node Js,
+Elixir,
+Mobile (Flutter ou React Native),
 Unity e Unreal (Games)
 
 ✨Contato
