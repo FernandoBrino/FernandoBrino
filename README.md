@@ -2,7 +2,8 @@
 
 ✨ About me 
 
-Eu sou o Fernando, tenho 19 anos e moro no Litoral de SP. Entrei no universo da programação a um pouco mais de 1 ano logo após o término do meu ensino médio, quando decidi começar a estudar programação, tendo meu primeiro contato com 'Python' em um curso para iniciantes na 'Udemy', vendo de forma um tanto quanto rasa algumas ideias de programação em geral e da linguagem que escolhi. Poucos meses depois inicie meu ensino superior em Análise e Desenvolvimento de Sistemas na Fatec Rubens Lara, onde atualmente estou no 3 ciclo. A primeira linguagem que me apresentaram foi a linguagem 'C', onde consegui realmente me aprofundar em conceitos mais complexos de programação. Ao mesmo tempo que cursava meu ensino superiror, por conta de um amigo, entrei na "NLW (Next Level Week)" da "RocketSeat" onde eles constroem uma aplicação completa em 1 semana, na trilha que eu havia escolhido desenvolvemos uma aplicação em "React" sem praticamente nenhum conhecimento prévio fiquei completamente perdido. No entanto quando terminei achei simplesmente incrível o que tinhamos feito, e desde então venho estudando as bases, aprimorando e me apaixonando cada vez mais pelo Desenvolvimento Web.
+My name is Fernando, I'm 19 years old and I live in São Vicente, SP. I started to program about 1 year ago after finishing high school. 
+My first contact with programming was in a 'python' course at 'udemy', for beginners. A few months later, I enrolled at university, studying Systems Analysis and Development, where I am in the 3rd cycle. At the same time I started to learn Web Development with some online events, and since then I'm studying the basics of Web Development, and I aim to learn more and more.
 
 ✨Working on
 
