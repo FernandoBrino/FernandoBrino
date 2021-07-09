@@ -7,17 +7,23 @@ My first contact with programming was in a 'python' course at 'udemy', for begin
 
 <h2> ✨ Working On </h2>
 
-HTML,
-CSS, 
-JavaScript.
+HTML
+<br>
+CSS
+<br>
+JavaScript
 
 <h2> ✨ What i'm interested </h2>
 
-React,
-Node Js,
-Elixir,
-Mobile (Flutter ou React Native),
-Unity e Unreal (Games).
+React
+<br>
+Node Js
+<br>
+Elixir
+<br>
+Mobile (Flutter ou React Native)
+<br>
+Unity e Unreal (Games)
 
 <h2> ✨ How to reach me </h2>
  
