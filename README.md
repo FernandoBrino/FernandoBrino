@@ -12,6 +12,8 @@ HTML
 CSS
 <br>
 JavaScript
+<br>
+NodeJs
 
 <h2> ✨ What i'm interested </h2>
 
