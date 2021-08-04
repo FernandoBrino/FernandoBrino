@@ -7,9 +7,9 @@ My first contact with programming was in a 'python' course at 'udemy', for begin
 
 <h2> ✨ Working On </h2>
 
-HTML
+Html
 <br>
-CSS
+Css
 <br>
 JavaScript
 <br>
