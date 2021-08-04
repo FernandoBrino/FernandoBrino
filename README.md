@@ -23,7 +23,7 @@ Node Js
 <br>
 Elixir
 <br>
-Mobile (Flutter ou React Native)
+Mobile (Flutter or React Native)
 <br>
 Unity e Unreal (Games)
 
