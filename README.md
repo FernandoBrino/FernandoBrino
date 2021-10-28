@@ -11,8 +11,9 @@ My first contact with programming was in a 'python' course at 'udemy', for begin
 <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/730px-CSS.3.svg.png" width="11" height="15"></img> Css
 <br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="11" height="11"></img> JavaScript <br>
-<img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1-1174935.png" width="14" height="14"></img> NodeJs
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="12" height="12"></img> JavaScript <br>
+<img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1-1174935.png" width="15" height="15"></img> NodeJs <br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" width="16" height="16"></img> Angular
 
 <h2> 📚 What i'm interested </h2>
 
@@ -22,7 +23,7 @@ My first contact with programming was in a 'python' course at 'udemy', for begin
 <br>
 <img src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" width="13" height="13"></img> Mobile (Flutter or React Native)
 <br>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JC9KDh-UVAiFfDJ7ogzPMQqM24L3rPaVeIk12oxOisxnJ99hOI7hh_Wehb0Bbcx5oDY&usqp=CAU" width="14" height="14"></img> Unity e Unreal (Games)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JC9KDh-UVAiFfDJ7ogzPMQqM24L3rPaVeIk12oxOisxnJ99hOI7hh_Wehb0Bbcx5oDY&usqp=CAU" width="14" height="14"></img> Unity e Unreal
 
 <h2>📫 How to reach me </h2>
  
