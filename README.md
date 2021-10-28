@@ -27,7 +27,7 @@ My first contact with programming was in a 'python' course at 'udemy', for begin
 
 <h2>📫 How to reach me </h2>
  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1200px-Gmail_icon_%282020%29.svg.png" width="15" height="10"></img> Email: brinosaint@gmail.com.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1200px-Gmail_icon_%282020%29.svg.png" width="15" height="10"></img> Email: fernandobrino11@gmail.com
 <br>
 <img src="https://99prod.s3.amazonaws.com/uploads/image/file/549999/linkedin-logo-3.png" width="15" height="15"></img> Linkedin: https://www.linkedin.com/in/fernando-brino-b15028209/ 
 
