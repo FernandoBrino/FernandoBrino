@@ -3,8 +3,7 @@
 <h2> ✨ About me </h2>
 
 My name is Fernando, I'm 19 years old and I live in São Vicente, SP. I started to program about 1 year ago after finishing high school. 
-My first contact with programming was in a 'python' course at 'udemy', for beginners. A few months later, I enrolled at university, studying Systems Analysis and Development, where I am in the 3rd cycle. At the same time I started to learn Web Development with some online events, since then I'm trying to become a better Web Developer.
-
+My first contact with programming was in a 'python' course at 'udemy', for beginners. A few months later, I enrolled at university, studying Systems Analysis and Development, where I am in the 3rd cycle. At the same time I started to learn Web Development with some online events, since then I'm trying to become a Full Stack Developer
 <h2>⚙ Working On </h2>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="15" height="15"></img> Html
