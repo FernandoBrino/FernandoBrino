@@ -1,5 +1,5 @@
 <h1 align="center">
-  Olá eu sou o Fernando 🧙🏻‍♂️✨🎲
+  Olá eu sou o Fernando
 </h1>
 
 <div align="center">
