@@ -19,6 +19,7 @@
   <img align="center" alt="Brino-ReactJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Brino-NestJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg">
   <img align="center" alt="Brino-NextJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />    
+  <img align="center" alt="Brino-Vitest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" />
 </div>
 
 <div style="display: inline_block">
@@ -33,6 +34,7 @@
   <h2>📖 Current Studying</h2>
     <img align="center" alt="Brino-NestJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg">
     <img align="center" alt="Brino-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
+    <img align="center" alt="Brino-Vitest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" />
 </div><br>
   
    ![Snake animation](https://github.com/FernandoBrino/FernandoBrino/blob/output/github-contribution-grid-snake.svg)
